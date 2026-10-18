@@ -16,6 +16,8 @@ Usaré búsqueda en anchura (BFS), porque explora por niveles y permite encontra
 
 Este ejercicio utiliza un grafo conceptual. Encontrar un camino hacia S4 no demuestra que las acciones garanticen una mejora real del sueño.
 
+Link de colab: https://colab.research.google.com/drive/1dzRb_l58dK7HUhypMhzswMdgIKoF66Ba?usp=sharing
+
 ## Interpretación de resultados
 
 La búsqueda encontró el camino S0 → S1 → S3 → S4, con tres transiciones. En este recorrido primero se establece una rutina, luego se adecua el ambiente y finalmente se considera el escenario donde se observa una mejora.

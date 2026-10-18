@@ -40,15 +40,7 @@ Las últimas dos transiciones dependen del resultado observado; no son resultado
 
 ### Representación visual
 
-```mermaid
-flowchart TD
-    S0["S0: Sueño irregular"] -->|Establecer rutina| S1["S1: Rutina establecida"]
-    S0 -->|Adecuar ambiente| S2["S2: Ambiente adecuado"]
-    S1 -->|Adecuar ambiente| S3["S3: Rutina y ambiente adecuados"]
-    S2 -->|Establecer rutina| S3
-    S3 -->|Se observa mejora| S4["S4: Descanso adecuado"]
-    S3 -->|La dificultad continúa| S5["S5: Dificultad persistente"]
-```
+<img width="788" height="648" alt="image" src="https://github.com/user-attachments/assets/24e53ef4-f415-4293-915a-8d63693e1465" />
 
 ### Relación con el modelo predictivo
 
